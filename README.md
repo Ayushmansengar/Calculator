@@ -11,9 +11,9 @@ A decent looking Basic Calculator
 
 ### Screenshots  
 
-![image](https://user-images.githubusercontent.com/58720921/121778018-8cb19e80-cbb2-11eb-8ae3-d11ab68d5c9e.png)
+![image](https://user-images.githubusercontent.com/58720921/121778018-8cb19e80-cbb2-11eb-8ae3-d11ab68d5c9e.png)![image](https://user-images.githubusercontent.com/58720921/121778022-94714300-cbb2-11eb-887c-bcaa22efcd6e.png)
 
-![image](https://user-images.githubusercontent.com/58720921/121778022-94714300-cbb2-11eb-887c-bcaa22efcd6e.png)
+
 
                                                      
 
