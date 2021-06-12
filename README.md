@@ -25,4 +25,4 @@ Ayushman Sengar
 •	Etc  
 ### Drawback  
 •	Not compatible to different screen size [Learning how to remove this issue]  
-
+• sqrt not working!!!!
